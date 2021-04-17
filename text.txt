@@ -1,1 +1,2 @@
-git tage`
+git tage
+annotated tags`
